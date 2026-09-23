@@ -10,6 +10,8 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 
 This is my rendition of a dashboard browser extension.\
 Visit [extension](https://sensational-zuccutto-126628.netlify.app/).
+<p align="left"><img width="500" height="600" alt="Screenshot of dashboard browser extension landing page." src="" /></p>
+
 
 ## LICENSE
 This project is licensed under the MIT License.\
